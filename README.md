@@ -1,6 +1,12 @@
-# NextJS_Moralis_installer
+# NextJS Moralis installer
 
 This python tool installs a NextJS website with all the moralis integration
+
+Tool also updates all the nodejs modules at the end of installation, so you have the latest packages to dev on
+
+.
+.
+
 
 ## Requirements
 Python3
